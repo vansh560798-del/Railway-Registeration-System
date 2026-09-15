@@ -139,88 +139,44 @@ The program displays an exit message and terminates the menu loop.
 
 ## Code Screenshot
 
-> **Insert your C++ source-code screenshot here.**
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│                  PASTE CODE SCREENSHOT HERE                  │
-│                                                              │
-│                                                              │
-│                                                              │
-│                                                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<img width="1440" height="900" alt="File 1" src="https://github.com/user-attachments/assets/563891e1-e08f-4b1f-8e65-f48f28dc4521" />
 
 ---
+
+<img width="1440" height="900" alt="File 2" src="https://github.com/user-attachments/assets/0aad1f6d-0f97-4ef4-974b-954b90ac4ab4" />
+
+---
+
+<img width="1440" height="900" alt="File 3" src="https://github.com/user-attachments/assets/9ec05bbb-7f05-45bd-88b1-667c48382c21" />
+
+---
+
+<img width="1440" height="900" alt="File 4" src="https://github.com/user-attachments/assets/2c4caefc-df2f-4141-83aa-d8752da89c15" />
+
+---
+
+<img width="1440" height="900" alt="File 5" src="https://github.com/user-attachments/assets/bbbb1326-640b-4758-a9e1-cd43c08f68bb" />
+
+---
+
+<img width="1440" height="900" alt="File 6" src="https://github.com/user-attachments/assets/3e50d263-a08f-4478-b1b8-9acf3f3031e2" />
+
+---
+
+<img width="1440" height="900" alt="File 7" src="https://github.com/user-attachments/assets/b6099e76-1415-42a3-8a55-cb74a88add50" />
+
+------------------------------------------------------------------------------------
 
 # 🖥️ Program Results / Output
 
-## Result Screenshot 1 — Add Train
-
-> **Insert screenshot showing a train record being added here.**
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│                PASTE RESULT SCREENSHOT HERE                  │
-│                                                              │
-│                                                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<img width="1440" height="900" alt="File 8" src="https://github.com/user-attachments/assets/9869a14a-82f0-4dfb-85c5-14b9a7a402e1" />
 
 ---
 
-## Result Screenshot 2 — Display Train Records
+<img width="1440" height="900" alt="File 9" src="https://github.com/user-attachments/assets/0f5c36f2-d58d-4338-9f9f-9e04e0e54e9a" />
 
-> **Insert screenshot showing all train records here.**
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│                PASTE RESULT SCREENSHOT HERE                  │
-│                                                              │
-│                                                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Result Screenshot 3 — Search Train
-
-> **Insert screenshot showing the train search result here.**
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│                PASTE RESULT SCREENSHOT HERE                  │
-│                                                              │
-│                                                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Result Screenshot 4 — Exit / Invalid Choice
-
-> **Insert another output screenshot here if required.**
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│                PASTE RESULT SCREENSHOT HERE                  │
-│                                                              │
-│                                                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
+------------------------------------------------------------------------------------
 # 🎥 Project Explanation Video
 
 A complete explanation of this project is available in the Google Drive video below.
