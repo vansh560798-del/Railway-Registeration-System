@@ -236,6 +236,9 @@ https://drive.google.com/drive/folders/1rs8PXQPL6kIEc1gXxTx6czgLlZaNujtm?usp=sha
 # 📂 Project Structure
 
 ```text
+# 📂 Project Structure
+
+```text
 Railway-Reservation-System/
 │
 ├── README.md
@@ -245,7 +248,19 @@ Railway-Reservation-System/
     ├── File 1.jpeg
     ├── File 2.jpeg
     ├── File 3.jpeg
-    └── File 4.jpeg
+    ├── File 4.jpeg
+    ├── File 5.jpeg
+    ├── File 6.jpeg
+    └── File 7.jpeg
+```
+
+### 📁 Files & Folders
+
+* **`Project2.cpp`** — Main C++ source code of the Railway Reservation System.
+* **`README.md`** — Project documentation, features, concepts, and project explanation.
+* **`Screenshots/`** — Contains all screenshots related to the project.
+* **`File 1.jpeg` – `File 7.jpeg`** — Screenshots of the source code and program execution/results.
+
 ```
 
 ### 📁 Files & Folders
